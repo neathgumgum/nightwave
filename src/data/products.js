@@ -1,0 +1,10 @@
+export const products = [
+  { id: "airpods-3", name: "AirPods 3", category: "AirPods", price: 129, description: "Comfortable wireless audio with rich, balanced sound.", image: "/images/airpods/Airpods-3.png", badge: "New" },
+  { id: "airpods-2", name: "AirPods 2", category: "AirPods", price: 120, description: "Comfortable wireless audio with rich, balanced sound.", image: "/images/airpods/Airpods-2.png", badge: "New" },
+  { id: "airpods-pro-2", name: "AirPods Pro 2", category: "AirPods Pro", price: 249, description: "Immersive listening with active noise cancellation.", image: "/images/airpods-pro/Airpods-pro-2.png", badge: "Popular" },
+  { id: "airpods-pro-4", name: "AirPods Pro 4", category: "AirPods Pro", price: 257, description: "Immersive listening with active noise cancellation.", image: "/images/airpods-pro/Airpods-pro-4.png", badge: "Popular" },
+  { id: "airpods-max-tear", name: "AirPods Max Tear", category: "AirPods Max", price: 549, description: "Premium over-ear audio with a spacious soundstage.", image: "/images/airpods-max/Airpods-Max-Tear.png", badge: "Limited" },
+  { id: "airpods-max-black", name: "AirPods Max Black", category: "AirPods Max", price: 549, description: "Premium over-ear audio with a spacious soundstage.", image: "/images/airpods-max/Airpods-Max-Black.png", badge: "Premium" },
+  { id: "airpods-max-lightblue", name: "AirPods Max Lightblue", category: "AirPods Max", price: 549, description: "Premium over-ear audio with a spacious soundstage.", image: "/images/airpods-max/Airpods-Max-LightBlue.png", badge: "Hot" },
+  { id: "airpods-max-white", name: "AirPods Max White", category: "AirPods Max", price: 549, description: "Premium over-ear audio with a spacious soundstage.", image: "/images/airpods-max/Airpods-Max-White.png", badge: "Premium" },
+];
